@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Greedygames</string>
+    <string name="app_name">ImageLoader</string>
     <string name="no_internet_connection">No internet connection</string>
     <string name="please_wait">Please wait..</string>
 </resources>
